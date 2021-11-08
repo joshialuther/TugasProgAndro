@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pertemuan9_71170228</string>
+    <string name="logout">Ausloggen</string>
+    <string name="welcome">"Hallo, willkommen "</string>
+    <string name="minSize">-Schriftgröße</string>
+    <string name="language">Sprache ändern</string>
+    <string name="maxSize">+Schriftgröße</string>
+</resources>

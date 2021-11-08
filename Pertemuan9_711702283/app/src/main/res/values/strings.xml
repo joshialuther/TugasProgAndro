@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pertemuan9_71170228</string>
+    <string name="logout">Logout</string>
+    <string name="language">Change Language</string>
+    <string name="minSize">-Font Size</string>
+    <string name="maxSize">+Font Size</string>
+    <string name="welcome">Hi, Welcome</string>
+</resources>

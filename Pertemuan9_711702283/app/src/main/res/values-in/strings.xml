@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pertemuan9_71170228</string>
+    <string name="logout">Keluar</string>
+    <string name="welcome">Hai, Selamat Datang</string>
+    <string name="minSize">-Ukuran Font</string>
+    <string name="language">Ganti Bahasa</string>
+    <string name="maxSize">+Ukuran Font</string>
+</resources>
